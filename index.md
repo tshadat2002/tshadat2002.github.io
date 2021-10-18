@@ -3,5 +3,5 @@
 
 
 ```markdown
-
+Hi, my name is Taohid and I am very passionate about technology and finance. I am looking for ways to increase my knowledge in both domains to become a better coder. 
 ```
